@@ -7,14 +7,15 @@ AFNetworking category for building request using query and post data.
 ## Installation
 
 ``` ruby
-    pod 'AFHTTPClient+AZPostQuery',:git => 'https://github.com/azu/AFHTTPClient-AZPostQuery.git'
+pod 'AFHTTPClient-AZPostQuery', :git => 'https://github.com/azu/AFHTTPClient-AZPostQuery.git'
 ```
 
 ## Usage
 
 ``` objc
 /**
- Creates an `AFHTTPRequestOperation` with a `POST` request, and enqueues it to the HTTP client's operation queue.
+ Creates an `AFHTTPRequestOperati
+ on` with a `POST` request, and enqueues it to the HTTP client's operation queue.
 
  @param path The path to be appended to the HTTP client's base URL and used as the request URL.
  @param query The query to be be appended as a query string  to path.
