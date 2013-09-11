@@ -57,6 +57,7 @@
 		17B5CB4BFEB8CEA8DF5CE094 /* AFHTTPClient_AZPostQueryTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFHTTPClient_AZPostQueryTest.m; sourceTree = "<group>"; };
 		17B5CC1187394D8031B5FDEF /* AFHTTPClient+AZPostQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "AFHTTPClient+AZPostQuery.m"; sourceTree = "<group>"; };
 		17B5CC2AFF691DA9DCDE8C3E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		17B5CC2BD1CA0EE68A3C14B4 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = file.md; path = readme.md; sourceTree = "<group>"; };
 		17B5CD1AD5631C9BE6531B72 /* AFHTTPClient+AZPostQueryTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "AFHTTPClient+AZPostQueryTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3BBB0D5739674ABCA0FEA8DB /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E98BC2394BD44D38334C5B8 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = SOURCE_ROOT; };
@@ -163,6 +164,7 @@
 				17B5C86EB46A15F112FBAA2E /* AFHTTPClient+AZPostQueryTests */,
 				4E98BC2394BD44D38334C5B8 /* Pods.xcconfig */,
 				98345CE3FABB4F268B828A18 /* Pods-AFHTTPClient+AZPostQueryTests.xcconfig */,
+				17B5CC2BD1CA0EE68A3C14B4 /* readme.md */,
 			);
 			sourceTree = "<group>";
 		};
