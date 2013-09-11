@@ -6,8 +6,8 @@ AFNetworking category for building request using query and post data.
 
 ## Installation
 
-``` objc
-    pod 'AFHTTPClient+AZPostQuery'
+``` ruby
+    pod 'AFHTTPClient+AZPostQuery',:git => 'https://github.com/azu/AFHTTPClient-AZPostQuery.git'
 ```
 
 ## Usage
