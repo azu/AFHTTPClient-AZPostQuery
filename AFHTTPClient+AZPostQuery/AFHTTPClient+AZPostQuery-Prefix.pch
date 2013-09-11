@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'AFHTTPClient+AZPostQuery' target in the 'AFHTTPClient+AZPostQuery' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+
+#endif

@@ -1,0 +1,13 @@
+PODS:
+  - AFNetworking (1.3.1)
+  - TKSenTestAsync (0.0.2)
+
+DEPENDENCIES:
+  - AFNetworking
+  - TKSenTestAsync
+
+SPEC CHECKSUMS:
+  AFNetworking: 9ec8aafb9269236a7630bd8d9838ce2ba30fa2a0
+  TKSenTestAsync: 7cb51dcd0a6725aa3a02a2172a5046263e04fe44
+
+COCOAPODS: 0.23.0
