@@ -15,6 +15,6 @@ Pod::Spec.new do |s|
 
   s.osx.deployment_target = '10.7'
   s.osx.frameworks = 'CoreServices', 'SystemConfiguration', 'Security'
-  s.dependency 'AFNetworking'
+  s.dependency 'AFNetworking', '~> 1.3.2'
 
 end
